@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0.9% 3%;
+  background-color: crimson;
+  color: white;
+}
+
+.brand-name {
+  font-size: 2rem;
+}

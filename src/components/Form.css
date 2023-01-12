@@ -1,0 +1,29 @@
+.item-form {
+  padding: 6% 2%;
+  display: flex;
+  flex-direction: column;
+}
+
+.item-form button {
+  border-radius: 20px;
+  border: 1px solid lightcoral;
+  background-color: lightcoral;
+  color: white;
+  padding: 5px 1px;
+  margin: 5px;
+  font-size: 1.05rem;
+}
+
+.item-form input {
+  border: 1pt solid lightcoral;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.item-form span {
+  font-size: 1.1rem;
+}
+
+.item-form button:hover {
+  opacity: 0.9;
+}
